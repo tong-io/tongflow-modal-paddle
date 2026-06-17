@@ -1,6 +1,6 @@
 # tongflow-modal-paddle
 
-Official TongFlow plugin. Document-to-text (OCR) extraction with **PaddleOCR**, running on [Modal](https://modal.com). An alternative to `tongflow-modal-docling` on the same `parse-document` slot.
+Official [TongFlow](https://github.com/tong-io/tongflow) plugin. Document-to-text (OCR) extraction with **PaddleOCR**, running on [Modal](https://modal.com). An alternative to `tongflow-modal-docling` on the same `parse-document` slot.
 
 ## Capabilities
 
